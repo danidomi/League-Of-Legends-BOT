@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="AI\AI.cs" />
     <Compile Include="AI\AIHowlingAbyss.cs" />
+    <Compile Include="AI\AIPractice.cs" />
     <Compile Include="AI\AISummonerRift.cs" />
     <Compile Include="Bot.cs" />
     <Compile Include="Constants\AvailableGameType.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="Patterns\Actions\ExecuteAIAction.cs" />
     <Compile Include="Patterns\Actions\WaitUntilColorAction.cs" />
     <Compile Include="Patterns\Actions\WaitUntilProcessFocusAction.cs" />
+    <Compile Include="Patterns\SummonersRiftPracticePattern.cs" />
     <Compile Include="Patterns\EndGamePattern.cs" />
     <Compile Include="Patterns\HowlingAbyssPattern.cs" />
     <Compile Include="Patterns\MapPattern.cs" />

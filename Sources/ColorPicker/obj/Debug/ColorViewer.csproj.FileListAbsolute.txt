@@ -18,3 +18,12 @@ C:\Users\Skinz\Desktop\League-Of-Legends-BOT-master\League-Of-Legends-BOT\Source
 C:\Users\Skinz\Desktop\League-Of-Legends-BOT-master\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.csproj.CoreCompileInputs.cache
 C:\Users\Skinz\Desktop\League-Of-Legends-BOT-master\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.exe
 C:\Users\Skinz\Desktop\League-Of-Legends-BOT-master\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.pdb
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\bin\Debug\ColorViewer.exe.config
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\bin\Debug\ColorViewer.exe
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\bin\Debug\ColorViewer.pdb
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.Form1.resources
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.Properties.Resources.resources
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.csproj.GenerateResource.cache
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.csproj.CoreCompileInputs.cache
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.exe
+C:\Projects\League-Of-Legends-BOT\Sources\ColorPicker\obj\Debug\ColorViewer.pdb

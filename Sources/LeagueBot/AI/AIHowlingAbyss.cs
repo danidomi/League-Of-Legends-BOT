@@ -23,6 +23,7 @@ namespace LeagueBot.AI
         {
             base.Start();
             Thread.Sleep(3000);
+            Summoner.Z();
             Interop.CenterProcessWindow(LeagueConstants.LoL_GAME_PROCESS);
             Summoner.LockCamera();
             Thread.Sleep(1000);
@@ -35,7 +36,8 @@ namespace LeagueBot.AI
             Keyboard.KeyPress(Keys.Escape);
 
             Thread.Sleep(5000);
-            Summoner.Talk("Hi team");
+            Summoner.Talk("Hello All");
+            Summoner.Talk("Sup?");
             Summoner.MaxE();
             Thread.Sleep(500);
             Summoner.MaxQ();

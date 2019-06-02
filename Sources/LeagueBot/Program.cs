@@ -21,7 +21,7 @@ namespace LeagueBot
             Console.Read();
             Console.Title = "LeagueBot";
             Bot bot = new Bot();
-            bot.Start(AvailableGameType.ARAM);
+            bot.Start(AvailableGameType.PRACTICE_TOOL);
 
         }
     }

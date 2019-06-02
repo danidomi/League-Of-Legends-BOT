@@ -16,11 +16,11 @@ namespace LeagueBot.Patterns
         {
         }
 
-        public override AbstractAI AI => new AISummonerRift(Bot, this);
+        public override AbstractAI AI => new AIPractice(Bot, this);
 
         public override Side GetSide()
         {
-            throw new NotImplementedException();
+            return Side.Blue;
         }
     }
 }

@@ -15,33 +15,34 @@ namespace LeagueBot.Constants
         public static Point GAME_RESOLUTION = new Point(1024, 768);
 
         #region Launcher
-        public static Point PLAY_BUTTON = new Point(240, 110).Resize(GAME_RESOLUTION);
+        public static Point PLAY_BUTTON = new Point(307, 141).Resize(GAME_RESOLUTION);
 
-        public static Point COOP_AGAINST_AI_MBUTTON = new Point(275, 170).Resize(GAME_RESOLUTION);
         public static Point PVP_MBUTTON = new Point(242, 209).Resize(GAME_RESOLUTION);
-        public static Point TRAINING_MBUTTON = new Point(376, 168).Resize(GAME_RESOLUTION);
+        public static Point COOP_AGAINST_AI_MBUTTON = new Point(332, 209).Resize(GAME_RESOLUTION);
+        public static Point TRAINING_MBUTTON = new Point(468, 209).Resize(GAME_RESOLUTION);
 
         public static Point COOP_AGAINST_AI_BEGGINER = new Point(475, 598).Resize(GAME_RESOLUTION);
         public static Point COOP_AGAINST_AI_INTERMEDIATE = new Point(470, 631).Resize(GAME_RESOLUTION);
-        public static Point PRACTICE_TOOL_BUTTON = new Point(755, 294).Resize(GAME_RESOLUTION);
+        public static Point PRACTICE_TOOL_BUTTON = new Point(943, 363).Resize(GAME_RESOLUTION);
 
-        public static Point ARAM_BUTTON = new Point(737, 309).Resize(GAME_RESOLUTION);
+        public static Point ARAM_BUTTON = new Point(1097, 365).Resize(GAME_RESOLUTION);
 
-        public static Point CONFIRM_BUTTON = new Point(674, 758).Resize(GAME_RESOLUTION);
-        public static Point ACCEPT_MATCH_BUTTON = new Point(764, 627).Resize(GAME_RESOLUTION);
+        public static Point CONFIRM_BUTTON = new Point(825, 967).Resize(GAME_RESOLUTION);
+        public static Point ACCEPT_MATCH_BUTTON = new Point(955, 791).Resize(GAME_RESOLUTION);
 
         public static Point LEAVE_BUTTON = new Point(708, 752).Resize(GAME_RESOLUTION);
-        public static Point HONOR_BUTTON = new Point(600, 600).Resize(GAME_RESOLUTION);
+        public static Point HONOR_BUTTON = new Point(963, 90).Resize(GAME_RESOLUTION);
 
-        public static Point LEVELUP_BUTTON = new Point(955, 937).Resize(GAME_RESOLUTION);
+        public static Point LEVELUP_BUTTON = new Point(959, 939).Resize(GAME_RESOLUTION);
         #endregion
 
         #region Champion Select
         public static Point CHAMP1_LOGO = new Point(606, 239).Resize(GAME_RESOLUTION);
+        public static Point RANDOM_LOGO = new Point(637, 300).Resize(GAME_RESOLUTION);
         public static Point CHAMP2_LOGO = new Point(711, 241).Resize(GAME_RESOLUTION);
-        public static Point LOCK_BUTTON = new Point(770, 680).Resize(GAME_RESOLUTION);
+        public static Point LOCK_BUTTON = new Point(955, 850).Resize(GAME_RESOLUTION);
 
-        public static Point CHOOSE_YOUR_LOADOUT_TEXT = new Point(1165, 123).Resize(GAME_RESOLUTION);
+        public static Point CHOOSE_YOUR_LOADOUT_TEXT = new Point(505, 117).Resize(GAME_RESOLUTION);
         #endregion
 
         #region Game

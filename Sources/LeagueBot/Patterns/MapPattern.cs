@@ -29,7 +29,7 @@ namespace LeagueBot.Patterns
         public override PatternAction[] Actions => new PatternAction[]
         {
            new WaitUntilProcessFocusAction(LeagueConstants.LoL_GAME_PROCESS,"Waiting Game Focus..."),
-           new WaitUntilColorAction(PixelsConstants.LIFE_BAR_CHECKER_POINT,ColorConstants.LIFE_BAR_CHECKER_COLOR,"Waiting for Game to load..."),
+           //new WaitUntilColorAction(PixelsConstants.LIFE_BAR_CHECKER_POINT,ColorConstants.LIFE_BAR_CHECKER_COLOR,"Waiting for Game to load..."),
            new ExecuteAIAction(AI,"Launching'IA ("+AI.GetType().Name+")"),
         };
 

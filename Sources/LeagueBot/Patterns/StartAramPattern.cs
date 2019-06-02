@@ -19,6 +19,7 @@ namespace LeagueBot.Patterns
             new ClickAction(ClickType.LEFT,PixelsConstants.ARAM_BUTTON,"Press Begginner Button",0.5),
             new ClickAction(ClickType.LEFT,PixelsConstants.CONFIRM_BUTTON,"Press Play Button",3),
             new ClickAction(ClickType.LEFT,PixelsConstants.CONFIRM_BUTTON,"Press Play Button",3),
+            new ClickAction(ClickType.LEFT,PixelsConstants.ACCEPT_MATCH_BUTTON,"Finding match...",3),
             new ClickUntilColorAction(ColorConstants.CHOOSE_YOUR_LOADOUT_COLOR,PixelsConstants.CHOOSE_YOUR_LOADOUT_TEXT,PixelsConstants.ACCEPT_MATCH_BUTTON,"Finding match...",2),
             new WaitUntilProcessOpenAction(LeagueConstants.LoL_GAME_PROCESS,"Waiting LoL Process...",120,new Action(() => {  Bot.ApplyPattern(new StartAramPattern(Bot), 4); })), // timeout = if someone, leave the game before it start.
             new DefinePatternAction(new HowlingAbyssPattern(Bot),"Executing Pattern : InGame",0),
