@@ -12,7 +12,7 @@ namespace LeagueBot.Constants
     /// </summary>
     public static class PixelsConstants
     {
-        public static Point GAME_RESOLUTION = new Point(1024, 768);
+        public static Point GAME_RESOLUTION = new Point(1920, 1080);
 
         #region Launcher
         public static Point PLAY_BUTTON = new Point(307, 141).Resize(GAME_RESOLUTION);
